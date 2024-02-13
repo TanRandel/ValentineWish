@@ -38,6 +38,7 @@ body {
 }
 
 .one {
+  color: #ff2644;
   font-size: 4.5rem;
 }
 
@@ -54,6 +55,7 @@ body {
 }
 
 .three {
+  color: #ff2644;
   font-size: 3rem;
 }
 
@@ -86,6 +88,7 @@ body {
 }
 
 .five p {
+  color: #d60000;
   font-size: 2rem;
   position: absolute;
   left: 0;
